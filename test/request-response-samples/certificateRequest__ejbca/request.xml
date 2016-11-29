@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ws="http://ws.protocol.core.ejbca.org/">
+  <soapenv:Header/>
+  <soapenv:Body>
+    <ws:certificateRequest>
+      <arg0>
+        <caName>OPERATOR_issuing_subCA_2016</caName>
+        <subjectDN>C=CN, ST=GD, L=GZ, O=Ericsson, OU=AB, CN=138000000004505@proxy.com</subjectDN>
+        <username>244990200022071@nai.epc.mnc099.mcc244.3gppnetwork.org</username>
+        <certificateProfileName>NSDSendentityCertificateProfile</certificateProfileName>
+        <endEntityProfileName>NSDSendentityProfile</endEntityProfileName>
+      </arg0>
+      <arg1>-----BEGIN CERTIFICATE REQUEST-----\nMIICsDCCAZgCAQAwazELMAkGA1UEBhMCQ04xCzAJBgNVBAgMAkdEMQswCQYDVQQH\nDAJHWjERMA8GA1UECgwIRXJpY3Nzb24xCzAJBgNVBAsMAkFCMSIwIAYDVQQDDBkx\nMzgwMDAwMDAwMDI1MDVAcHJveHkuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A\nMIIBCgKCAQEA1mIEYIbLyIj3RGjhxK+SnXQVraALSRbKfKHQNeucAYFRD8BolyAG\nd4mv6qcP2nZHcH86vEq/b2QwjTZrH/KGZLHwDxcHv0kL6VqG6qy0fIySdMa8X5rp\nuOxv4+EAwdyBk/qwyngEZ/BsAkCKxXm6OzJi0XI8SG+Hrr6Ulpcz21yKllm1Bct1\nGvtjrirkPT+XPasuuj3oO5ORnCqQYpyvUYLeyNt96RDvPJeHRo1rI90ZXymbICqC\nc81RcYjje4YnRg2HUWlvSN1ZseV63IVraD+M2qJLXC5ZwPYoPnx3NoGTj0MaQSVZ\n3DKvZITJX6hIFDfb1jYnwaTIBTHsoIlzcwIDAQABoAAwDQYJKoZIhvcNAQEFBQAD\nggEBAA86NPx6e4jmZx/9qRZgZdp9yZaOYGYvG/shVhEZqrbm+Kcf5CWE0ejM1XAV\nVO58dwD8a7sJBicHpiuiHFC4rP0+IIXVqKYF3Z4Qff7z19cSdCItmQ9HDN0rBh8K\n+yf6hAU/8YX7y2LpJGpGiNh0HocriwhMD6P6QBNyHc7GOxLT79uB3wRBy+yochjZ\nvpGNZsjQuQvoJON5FtcWn+HeZ2NiCXo/SPhcn16oCdp2/CJ12/NaRds39JX2l7aR\ny41WyW61n7ymRWyEW8ZZ1T5C+viFb0vf3nXERxiiBNc6PeogYX4MXUgk5q0n0BLa\nQ6f2yr9cCVLOGEP1BSsmi2ys25I=\n-----END CERTIFICATE REQUEST-----</arg1>
+      <arg2>0</arg2>
+      <arg3>false</arg3>
+      <arg4>CERTIFICATE</arg4>
+    </ws:certificateRequest>
+  </soapenv:Body>
+</soapenv:Envelope>

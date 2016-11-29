@@ -1,0 +1,13 @@
+{
+  "arg0": {
+    "caName": "OPERATOR_issuing_subCA_2016",
+    "subjectDN": "C=CN, ST=GD, L=GZ, O=Ericsson, OU=AB, CN=139000003007010@oemDeviceRealm",
+    "username": "139000003007010@oemDeviceRealm",
+    "certificateProfileName": "NSDSendentityCertificateProfile",
+    "endEntityProfileName": "NSDSendentityProfile"
+  },
+  "arg1": "-----BEGIN CERTIFICATE REQUEST-----\nMIICtTCCAZ0CAQAwcDELMAkGA1UEBhMCQ04xCzAJBgNVBAgMAkdEMQswCQYDVQQH\nDAJHWjERMA8GA1UECgwIRXJpY3Nzb24xCzAJBgNVBAsMAkFCMScwJQYDVQQDDB4x\nMzkwMDAwMDMwMDcwMTBAb2VtRGV2aWNlUmVhbG0wggEiMA0GCSqGSIb3DQEBAQUA\nA4IBDwAwggEKAoIBAQDXyNR5hf86Qld45bpkP1qMswGmFYqX0xMTDG0uM6YJ1cJP\nBlzXnvM5qcQIus8qMvX7dSSS/KU3xDagAht/x1yeYXuBThc3FqLM3hKToCeNOWUz\nIz703uv+ulcGcdKexdIQRYvRbyWvEj8e03JtYcLV8Xov+kUWLyxoS2Q6cqWX+19k\n4h0/m09/ke7sSZy15WcDdeWsTvHvxkV7O495NEc8NU7b3NfwgdHxBVhmIItXLCPe\nmK4C9hjBVF6U+u2IA/e0Viy8RSXkBYi+PcWWCE+e4x+pIJuatmBucxRPGbNp6IKt\n7W5MCzrVp3WNqb7PH71auPIDEmSvBUUfIBk5GTW1AgMBAAGgADANBgkqhkiG9w0B\nAQUFAAOCAQEA0wel3/kXW4/bhdoIgHL8qwczPfcoANKnXotxr/h0hWHw+hYZtWM1\nZlmZIonlkevIWos+D+/Ht2UE4NNb3SsymMExOEDpxLQPL4wNmebvQLupNZfLkDAl\ndp006TYdWtyHSRe5YpUKpQIEA4WLF21Zr4kImod+CNatuflnxh7QA9peti0d2mGD\nr/jNFDPq/G9+BRkvGzotCvalLpQlwAsSzA/KMN/Y5YA//U7WIOr3LQdTMDJl+zX3\nkVmxAzrTQe2GBORzHORiG8ekuLLmyORO6pKRO7ci6a/dW45oxZ1DeJsMLp4xmoDS\nWfWWawiMXVXVr459E4nn6Q3KUrxI0xYuJg==\n-----END CERTIFICATE REQUEST-----",
+  "arg2": 0,
+  "arg3": false,
+  "arg4": "CERTIFICATE"
+}
